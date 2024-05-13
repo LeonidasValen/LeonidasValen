@@ -1,7 +1,7 @@
 # Hola soy Leonel Valenzuela 👋
 ## Programador Fullstack
 
-##### [Linkedin](https://www.linkedin.com/in/leonel-valenzuela-65aa462b4/ "Linkedin") | [Porfolio](https://leonidasvalen.github.io/Portfolio/ "Porfolio") | [Correo](mailto:leon.alberto4502@gmail.com "Correo")
+#### [Linkedin](https://www.linkedin.com/in/leonel-valenzuela-65aa462b4/ "Linkedin") | [Porfolio](https://leonidasvalen.github.io/Portfolio/ "Porfolio") | [Correo](mailto:leon.alberto4502@gmail.com "Correo")
 
 ## Lenguajes
 <div style="display: flex; gap:3px;">
