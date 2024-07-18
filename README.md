@@ -8,6 +8,7 @@
 <img src="https://leonidasvalen.github.io/Portfolio/icons/html-5.png" height=26 width=26>
 <img src="https://leonidasvalen.github.io/Portfolio/icons/css-3.png" height=26 width=26>
 <img src="https://leonidasvalen.github.io/Portfolio/icons/js.png" height=26 width=26>
+<img src="https://leonidasvalen.github.io/Portfolio/icons/typescript.png" height=26 width=26>
 <img src="https://leonidasvalen.github.io/Portfolio/icons/php.png" height=26 width=26>
 <img src="https://leonidasvalen.github.io/Portfolio/icons/mysql.png" height=26 width=26>
 <img src="https://leonidasvalen.github.io/Portfolio/icons/mongodb.png" height=26 width=26>
@@ -15,5 +16,4 @@
 <img src="https://leonidasvalen.github.io/Portfolio/icons/nodejs.png" height=26 width=26>
 <img src="https://leonidasvalen.github.io/Portfolio/icons/express2.png" height=26 width=26>
 <img src="https://leonidasvalen.github.io/Portfolio/icons/vitejs.png" height=26 width=26>
-<img src="https://leonidasvalen.github.io/Portfolio/icons/next.png" height=26 width=26>
 </div>
