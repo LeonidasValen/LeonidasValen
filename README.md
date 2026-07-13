@@ -15,5 +15,6 @@
 <img src="https://leonidasvalen.github.io/Portfolio/icons/react.png" height=26 width=26>
 <img src="https://leonidasvalen.github.io/Portfolio/icons/nodejs.png" height=26 width=26>
 <img src="https://leonidasvalen.github.io/Portfolio/icons/express2.png" height=26 width=26>
-<img src="https://leonidasvalen.github.io/Portfolio/icons/vitejs.png" height=26 width=26>
+<img src="https://leonidasvalen.github.io/Portfolio/icons/python.png" height=26 width=26>
+  <img src="https://leonidasvalen.github.io/Portfolio/icons/vitejs.png" height=26 width=26>
 </div>
